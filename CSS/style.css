@@ -7,7 +7,7 @@ body {
 
 .container {
     width: 60%;
-    height: 250px;
+    height: 280px;
     margin: 0 auto;
     padding: 10px;
     border: 1px solid black;
@@ -28,5 +28,14 @@ body {
     background-color: blue;
     color: white;
     box-shadow: 1px 1px 2px black;
-    text-align: center;
+}
+.footer {
+    color: white;
+    width: 60%;
+    height: 20px;
+    background-color: grey;
+    margin: 0 auto;
+    padding: 10px;
+    border: 1px solid black;
+    font-weight: bold;
 }
